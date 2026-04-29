@@ -1,3 +1,3 @@
-# Proyectos Git
+# Mi proyecto en GitHub
 
-Este es mi repositorio local con Git
+Este es mi repositorio local con Git.
